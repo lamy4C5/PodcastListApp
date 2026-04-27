@@ -1,0 +1,50 @@
+[
+  {
+    "id": "ep-001",
+    "title": "AI 正在如何改变日常工作",
+    "host": "林知远",
+    "duration": "28 min",
+    "coverImageName": "podcast_placeholder",
+    "description": "聊聊大模型在真实办公场景里的落地与边界。"
+  },
+  {
+    "id": "ep-002",
+    "title": "一个独立开发者的三年复盘",
+    "host": "周杰",
+    "duration": "42 min",
+    "coverImageName": "podcast_placeholder",
+    "description": "从辞职到上架第一款 App，中间那些不被看见的事。"
+  },
+  {
+    "id": "ep-003",
+    "title": "SwiftUI 在大型项目中的取舍",
+    "host": "陈婧",
+    "duration": "35 min",
+    "coverImageName": "podcast_placeholder",
+    "description": "状态管理、性能、与 UIKit 的协作经验分享。"
+  },
+  {
+    "id": "ep-004",
+    "title": "为什么我们越来越难专注",
+    "host": "苏明",
+    "duration": "24 min",
+    "coverImageName": "podcast_placeholder",
+    "description": "信息过载时代,重新认识注意力这件事。"
+  },
+  {
+    "id": "ep-005",
+    "title": "去一趟冰岛要花多少钱",
+    "host": "Lily",
+    "duration": "31 min",
+    "coverImageName": "podcast_placeholder",
+    "description": "一次 10 天自驾环岛的真实预算与避坑清单。"
+  },
+  {
+    "id": "ep-006",
+    "title": "面试官视角:iOS 工程师的技术面",
+    "host": "Kevin",
+    "duration": "46 min",
+    "coverImageName": "podcast_placeholder",
+    "description": "从简历到系统设计,聊聊面试里真正被考察的点。"
+  }
+]
